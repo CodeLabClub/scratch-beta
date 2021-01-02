@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 40 40" style="enable-background:new 0 0 40 40;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#0FBD8C;}
+	.st1{fill:#CBE5F1;}
+	.st2{fill:#909AB1;}
+	.st3{fill:#F2F6FF;}
+	.st4{fill:#A8D0E9;}
+	.st5{fill:#ED4644;}
+	.st6{fill:#EFF7FF;}
+	.st7{fill:#688FCB;}
+</style>
+<title>扩展插件配图设计</title>
+<g id="_35._红外遥控器">
+	<rect class="st0" width="40" height="40"/>
+	<path class="st1" d="M15.2,35.8c-1.4,0.1-2.6-1-2.7-2.5V7.5c-0.1-1.7,1.1-3.1,2.8-3.2h9.6c1.7,0.1,2.9,1.6,2.8,3.2v25.8
+		c-0.1,1.4-1.3,2.5-2.8,2.5L15.2,35.8z"/>
+	<path class="st2" d="M24.8,4.5c1.5,0.1,2.6,1.4,2.5,2.9v25.8c-0.1,1.3-1.2,2.2-2.5,2.2h-9.6c-1.3,0.1-2.4-0.9-2.5-2.2V7.5
+		c-0.1-1.5,1-2.8,2.5-2.9H24.8 M24.8,4h-9.6c-1.8,0.1-3.1,1.6-3,3.4c0,0,0,0,0,0.1v25.8c0.1,1.6,1.4,2.8,3,2.7h9.6
+		c1.6,0.1,2.9-1.1,3-2.7V7.5C28,5.7,26.6,4.1,24.8,4C24.8,4,24.8,4,24.8,4z"/>
+	<path class="st3" d="M24.8,4.5h-9.6c-1.5,0.1-2.6,1.4-2.5,2.9v11.5h14.6V7.5C27.4,6,26.3,4.7,24.8,4.5z"/>
+	<path class="st1" d="M12.7,33.3c0.1,1.3,1.2,2.2,2.5,2.2h9.6c1.3,0.1,2.4-0.9,2.5-2.2V18.9H12.7V33.3z"/>
+	<circle class="st4" cx="16.1" cy="10.9" r="1.4"/>
+	<circle class="st4" cx="23.9" cy="10.9" r="1.4"/>
+	<circle class="st4" cx="20.1" cy="10.9" r="1.4"/>
+	<circle class="st4" cx="16.1" cy="15.1" r="1.4"/>
+	<circle class="st4" cx="23.9" cy="15.1" r="1.4"/>
+	<circle class="st4" cx="20.1" cy="15.1" r="1.4"/>
+	<circle class="st5" cx="15.3" cy="6.7" r="0.6"/>
+	<circle class="st6" cx="20" cy="24.6" r="2.9"/>
+	<circle class="st7" cx="20" cy="29.8" r="1.2"/>
+</g>
+</svg>
